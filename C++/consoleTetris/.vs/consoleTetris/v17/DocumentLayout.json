@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hex07\\OneDrive\\\uBB38\uC11C\\GitHub\\study\\C\u002B\u002B\\consoleTetris\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3B03DBC-9691-4C66-BCD0-6814D9B39596}|consoleTetris\\consoleTetris.vcxproj|C:\\Users\\hex07\\OneDrive\\\uBB38\uC11C\\GitHub\\study\\C\u002B\u002B\\consoleTetris\\consoleTetris\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E3B03DBC-9691-4C66-BCD0-6814D9B39596}|consoleTetris\\consoleTetris.vcxproj|solutionrelative:consoleTetris\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\hex07\\OneDrive\\\uBB38\uC11C\\GitHub\\study\\C\u002B\u002B\\consoleTetris\\consoleTetris\\main.cpp",
+              "RelativeDocumentMoniker": "consoleTetris\\main.cpp",
+              "ToolTip": "C:\\Users\\hex07\\OneDrive\\\uBB38\uC11C\\GitHub\\study\\C\u002B\u002B\\consoleTetris\\consoleTetris\\main.cpp",
+              "RelativeToolTip": "consoleTetris\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-04T12:48:45.269Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
